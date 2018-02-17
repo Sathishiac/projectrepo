@@ -1,2 +1,4 @@
 #!/bin/bsah 
 mkdir /tmp/mydirectory/testgit
+yum install httpd
+service httpd start
